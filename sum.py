@@ -1,5 +1,5 @@
-num1 = input("Enter num1: ")
-num2 = input("Enter num2: ")
+num1 = 16
+num2 = 30
 
 sum = float(num1) + float(num2)
 
